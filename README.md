@@ -2,7 +2,7 @@
 
 InkSwap is a decentralized platform for token creation and trading, featuring an innovative launchpad system that enables fair and efficient token launches.
 
-Ink Seopolia Beta 0.1.0 live now at https://inkswap.app
+Ink Sepolia Beta 0.1.0 live now at https://inkswap.app
 
 ## Overview
 
